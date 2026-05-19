@@ -1,0 +1,5 @@
+groq
+rich
+requests
+pytz
+python-dotenv
