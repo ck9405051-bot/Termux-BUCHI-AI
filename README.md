@@ -23,4 +23,4 @@ pkg install python
 pip install -r requirements.txt
 cp .env.example .env
 nano .env   # अपनी API key और एक्टिवेशन सेंटेंस डालें
-python buchi_framework.py
+python buchi_core.py
